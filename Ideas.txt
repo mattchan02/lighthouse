@@ -1,0 +1,15 @@
+Things That it has to have:
+
+- Typescript
+- Tested (Jest)/RTL/Storybook
+- Whiteboarding Sessions (FigJam/Miro)
+- Some Type of CI/CD -> (Github/Github actions -> YAML) -> Docker/K8s
+- Visual
+- Stackoverflow Based
+- SW3/AWS - GraphQL
+
+MAYBE
+- Mobile?
+- CSS Framework (MaterialUI)
+- BE - (GraphQL/MongoDB)
+- Docker?
